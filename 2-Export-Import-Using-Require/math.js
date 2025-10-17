@@ -20,6 +20,7 @@ module.exports.sum =  (a, b) => a+b ;
 const sum = (a,b) => a + b;
 const mul = (a,b) => a * b;
 const PI = 3.141;
+const g = 1.4;
 
 
 
